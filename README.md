@@ -33,16 +33,6 @@ J’aime surtout comprendre comment les choses fonctionnent derrière les projet
 
 ## Projets
 
-### Applications web
-
-| Projet | Description | Stack | Lien |
-|--------|-------------|-------|------|
-| Galerie d’images aléatoires | Galerie responsive avec API et lightbox | JavaScript, API REST, CSS Grid | [Repo](https://github.com/corneilleligan/Galerie_images_aleatoires) |
-| Horloge analogique et numérique | Horloge temps réel avec animation SVG et mode clair/sombre | JavaScript, CSS, SVG | [Repo](https://github.com/corneilleligan/Horloge) |
-| Minuteur circulaire animé | Minuteur interactif avec animation de progression | JavaScript, CSS, SVG | [Repo](https://github.com/corneilleligan/Minuteur) |
-
----
-
 ### Applications et bases de données
 
 | Projet | Description | Stack | Lien |
@@ -67,6 +57,16 @@ J’aime surtout comprendre comment les choses fonctionnent derrière les projet
 | Snake classique | Jeu Snake avec score et contrôle tactile | JavaScript, Canvas | [Repo](https://github.com/corneilleligan/SnakeGame) |
 | Jeu de décodage interactif | Conversion binaire / hex / décimal avec niveaux | JavaScript | [Repo](https://github.com/corneilleligan/DecodageGame) |
 | Pac-Man | Recréation avec IA et mécaniques avancées | Processing | [Repo](https://github.com/corneilleligan/pacman-processing) |
+
+---
+
+### Applications web
+
+| Projet | Description | Stack | Lien |
+|--------|-------------|-------|------|
+| Galerie d’images aléatoires | Galerie responsive avec API et lightbox | JavaScript, API REST, CSS Grid | [Repo](https://github.com/corneilleligan/Galerie_images_aleatoires) |
+| Horloge analogique et numérique | Horloge temps réel avec animation SVG et mode clair/sombre | JavaScript, CSS, SVG | [Repo](https://github.com/corneilleligan/Horloge) |
+| Minuteur circulaire animé | Minuteur interactif avec animation de progression | JavaScript, CSS, SVG | [Repo](https://github.com/corneilleligan/Minuteur) |
 
 ---
 
