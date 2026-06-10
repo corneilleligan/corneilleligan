@@ -45,7 +45,7 @@ J’aime surtout comprendre comment les choses fonctionnent derrière les projet
 ### Traitement de données
 | Projet | Description | Stack | Lien |
 |--------|-------------|-------|------|
-| Traitement de Données d'Accélérométrie | Analyse de signaux accélérométriques et estimation de la dépense énergétique (MET) — 3 méthodes scientifiques + classifieur KNN | Python, SciPy, scikit-learn, Pandas | [Repo](https://github.com/corneilleligan/accelerometrie) |
+| Traitement de Données d'Accélérométrie | Analyse de signaux accélérométriques et estimation de la dépense énergétique (MET) - 3 méthodes scientifiques + classifieur KNN | Python, SciPy, scikit-learn, Pandas | [Repo](https://github.com/corneilleligan/accelerometrie) |
 
 
 ---
@@ -54,9 +54,10 @@ J’aime surtout comprendre comment les choses fonctionnent derrière les projet
 
 | Projet | Description | Stack | Lien |
 |--------|-------------|-------|------|
+| Pac-Man | Recréation avec IA et mécaniques avancées | Processing | [Repo](https://github.com/corneilleligan/pacman-processing) |
 | Snake classique | Jeu Snake avec score et contrôle tactile | JavaScript, Canvas | [Repo](https://github.com/corneilleligan/SnakeGame) |
 | Jeu de décodage interactif | Conversion binaire / hex / décimal avec niveaux | JavaScript | [Repo](https://github.com/corneilleligan/DecodageGame) |
-| Pac-Man | Recréation avec IA et mécaniques avancées | Processing | [Repo](https://github.com/corneilleligan/pacman-processing) |
+
 
 ---
 
