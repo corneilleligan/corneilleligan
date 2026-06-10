@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=200&section=header&text=Corneille%20Ligan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Imaginer%20·%20Construire%20·%20Transformer&descAlignY=60&descSize=16&descColor=rgba(255,255,255,0.75)" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=150&section=header&text=Corneille%20Ligan&fontSize=42&fontColor=ffffff&fontAlignY=40" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=500&color=2563eb&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Cybersecurity+%2F+Security+focused;Always+building+and+learning.)](https://git.io/typing-svg)
+Étudiant en informatique · Développement logiciel · Analyse de données · Cybersécurité
 
-<br/>
+<br/><br/>
 
 [Portfolio](https://corneilleligan.me) · [LinkedIn](https://www.linkedin.com/in/corneille-ligan-5368a4225) · [Email](mailto:corneilleligan@gmail.com)
 
@@ -16,21 +16,20 @@
 
 ## Profil
 
-Étudiant en informatique avec un intérêt marqué pour la **cybersécurité et la sécurité des systèmes**.
+Étudiant en informatique, je m’intéresse au **développement logiciel, à l’analyse de données et à la cybersécurité**.
 
-Je développe des projets variés (web, logiciels, jeux et bases de données) avec une attention particulière portée à la structure, la logique et la compréhension des mécanismes internes.
+J’aime surtout comprendre comment les choses fonctionnent derrière les projets que je réalise, que ce soit des applications, des jeux ou des bases de données. J’essaie de faire du code propre et structuré, en progressant projet après projet.
 
 ---
 
 ## Domaines d’intérêt
 
-- Cybersécurité et sécurité applicative  
-- Analyse et compréhension des systèmes  
-- Développement web interactif  
-- Applications Java et architecture logicielle  
-- Bases de données et modélisation  
-
+- Cybersécurité et compréhension des systèmes  
+- Développement logiciel (Java, Python, JavaScript)  
+- Analyse de données et traitement d’informations  
+- Conception d’applications et de bases de données 
 ---
+
 
 ## Projets
 
@@ -38,9 +37,26 @@ Je développe des projets variés (web, logiciels, jeux et bases de données) av
 
 | Projet | Description | Stack | Lien |
 |--------|-------------|-------|------|
+| Galerie d’images aléatoires | Galerie responsive avec API et lightbox | JavaScript, API REST, CSS Grid | [Repo](https://github.com/corneilleligan/Galerie_images_aleatoires) |
 | Horloge analogique et numérique | Horloge temps réel avec animation SVG et mode clair/sombre | JavaScript, CSS, SVG | [Repo](https://github.com/corneilleligan/Horloge) |
 | Minuteur circulaire animé | Minuteur interactif avec animation de progression | JavaScript, CSS, SVG | [Repo](https://github.com/corneilleligan/Minuteur) |
-| Galerie d’images aléatoires | Galerie responsive avec API et lightbox | JavaScript, API REST, CSS Grid | [Repo](https://github.com/corneilleligan/Galerie_images_aleatoires) |
+
+---
+
+### Applications et bases de données
+
+| Projet | Description | Stack | Lien |
+|--------|-------------|-------|------|
+| Outil de gestion d’images | Application JavaFX avec filtres et persistance sécurisée | Java, JavaFX, Jackson | [Repo](https://github.com/corneilleligan/Outil-de-Gestion-d-Images) |
+| Base de données restaurant | Modélisation et requêtes SQL avancées | SQL, phpMyAdmin, Merise | [Repo](https://github.com/corneilleligan/Base_de_donnees_restaurant) |
+
+---
+
+### Traitement de données
+| Projet | Description | Stack | Lien |
+|--------|-------------|-------|------|
+| Traitement de Données d'Accélérométrie | Analyse de signaux accélérométriques et estimation de la dépense énergétique (MET) — 3 méthodes scientifiques + classifieur KNN | Python, SciPy, scikit-learn, Pandas | [Repo](https://github.com/corneilleligan/accelerometrie) |
+
 
 ---
 
@@ -54,18 +70,8 @@ Je développe des projets variés (web, logiciels, jeux et bases de données) av
 
 ---
 
-### Applications et bases de données
-
-| Projet | Description | Stack | Lien |
-|--------|-------------|-------|------|
-| Outil de gestion d’images | Application JavaFX avec filtres et persistance sécurisée | Java, JavaFX, Jackson | [Repo](https://github.com/corneilleligan/Outil-de-Gestion-d-Images) |
-| Base de données restaurant | Modélisation et requêtes SQL avancées | SQL, phpMyAdmin, Merise | [Repo](https://github.com/corneilleligan/Base_de_donnees_restaurant) |
-
----
-
 ## Approche
 
-- Compréhension des systèmes avant implémentation  
-- Code structuré et maintenable  sur la durée
-- Apprentissage continu en sécurité et développement  
-- Construction de projets complets et cohérents  
+- Apprendre en construisant des projets concrets  
+- Comprendre le fonctionnement des systèmes avant d’optimiser  
+- Chercher à écrire du code clair, structuré et évolutif  
