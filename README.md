@@ -33,6 +33,15 @@ J’aime surtout comprendre comment les choses fonctionnent derrière les projet
 
 ## Projets
 
+### Cybersécurité / Réseau
+
+| Projet | Description | Stack | Lien |
+|--------|-------------|-------|------|
+| Cyber Port Scanner | Programme d’analyse de ports TCP avec résolution DNS, scan de plages de ports et détection des services associés | Python, socket, threading | [Repo](https://github.com/corneilleligan/cyber-port-scanner) |
+
+---
+
+
 ### Applications et bases de données
 
 | Projet | Description | Stack | Lien |
