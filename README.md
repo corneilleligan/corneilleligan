@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=150&section=header&text=Corneille%20Ligan&fontSize=42&fontColor=ffffff&fontAlignY=40" width="100%"/>
+# Corneille Ligan
 
 <br/>
 
 Étudiant en informatique · Développement logiciel · Analyse de données · Cybersécurité
 
-<br/><br/>
 
 [Portfolio](https://corneilleligan.me) · [LinkedIn](https://www.linkedin.com/in/corneille-ligan-5368a4225) · [Email](mailto:corneilleligan@gmail.com)
 
