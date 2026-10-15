@@ -2,8 +2,6 @@
 
 # Corneille Ligan
 
-Étudiant en informatique · Développement logiciel · Analyse de données · Cybersécurité
-
 [Portfolio](https://corneilleligan.me) · [LinkedIn](https://www.linkedin.com/in/corneille-ligan-5368a4225) · [Email](mailto:corneilleligan@gmail.com)
 
 </div>
